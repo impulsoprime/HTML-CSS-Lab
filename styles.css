@@ -1,0 +1,96 @@
+
+body {
+    background-color:rgba(191, 191, 204, 0.315);
+    margin: 80px 0px 0px 0px;
+    overflow-x: hidden;
+    padding: 0px;
+    position: static;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.t1 {
+    padding-left: 50rem;
+    padding-right: 50rem;
+    width: 100%;
+    height: 100%;
+}
+.t2 {
+    
+    padding-left: 15rem;
+    padding-right: 60rem;
+    width: 100%;
+    height: 100%;
+}
+.i1 {
+    
+    width: 25%;
+    height: 25%;
+
+}
+.i2 {
+    width: 25%;
+    height: 25%;
+    
+}
+.l1 { 
+    padding-left: 40rem;
+    padding-right: 50rem;
+    text-align: center;
+    font-family: Spiegel, sans-serif;
+    word-break: break-word;
+    font-size: 18px;
+    color: rgb(10, 20, 40);
+
+}
+.l2 {
+    padding-left: 40rem;
+    padding-right: 50rem;
+    font-family: Spiegel, sans-serif;
+    font-weight: 400;
+    word-break: break-word;
+    font-size: 18px;
+    line-height: 26px;
+    color: rgb(10, 20, 40);
+
+}
+
+.l3 {
+    padding-left: 40rem;
+    padding-right: 50rem;
+    font-family: Spiegel, sans-serif;
+    font-weight: 400;
+    word-break: break-word;
+    font-size: 18px;
+    line-height: 26px;
+    color: rgb(10, 20, 40);
+
+}
+p  {
+    
+    text-align: center;
+    font-family: Spiegel, sans-serif;
+    word-break: break-word;
+    font-size: 18px;
+    color: rgb(10, 20, 40);
+
+
+}
+.i3 { 
+    width: 50%;
+    height: 50%;
+}
+
+.t3 {
+    
+    padding-left: 50rem;
+    padding-right: 50rem;
+    width: 100%;
+    height: 100%;
+}

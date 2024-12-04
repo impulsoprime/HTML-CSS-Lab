@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Página</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1> FORMULARIO </h1>
+    <form method="get" action="grava.php"> 
+        <fieldset>
+            <legend> Dados Pesoais:</legend>
+        </fieldset>
+        
+</body>
+</html>
